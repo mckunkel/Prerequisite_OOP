@@ -1,3 +1,4 @@
+package Prerequisites;
 public class Human {
 
 	String name;
