@@ -11,7 +11,7 @@ public class Vehicle {
 	}
 
 	public void accelerate() {
-		System.out.println("accelerating myself ");
+		System.out.println("accelerating myself... ");
 
 	}
 
